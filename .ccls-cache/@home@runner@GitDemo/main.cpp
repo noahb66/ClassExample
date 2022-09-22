@@ -1,5 +1,6 @@
 // Git demo
-// 
+// Noah Beal
+// Sep 22
 
 #include <iostream>
 #include <iomanip>
